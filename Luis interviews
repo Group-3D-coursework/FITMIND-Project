@@ -1,0 +1,119 @@
+# Concepts and Questions - Luis  interviews
+
+## 1. Current Stress Management and Exercise Practices
+
+**Question:** How do you currently manage stress and track exercise?
+
+- Currently does not engage in any timed exercises.
+- Relieves stress by attending events and dancing during stressful weeks.
+
+**Question:** At what age did you start looking for apps that track your mental health or physical activity?
+
+- Started looking for mental health trackers at the age of **14**.
+
+---
+
+## 2. Core Feature Prioritization
+
+**Question:** What features do you view as the most essential?
+
+- The most essential feature for the app would be **motivation**.
+
+---
+
+## 3. Feature Expectations and App Scope
+
+**Question:** How many features and what scale of functionality would you like the app to have?
+
+- **Six main features**:
+  1. Track my exercise
+  2. Provide motivation
+  3. Track my stress levels
+  4. Allow different types of exercise
+  5. Easy to use and intuitive interface
+
+---
+
+## 4. Measuring Stress Levels
+
+**Question:** How would you like your stress levels to be documented in the app?
+
+- Stress levels should be documented on a **scale from 0-10**.
+- For higher stress levels, a more **detailed questionnaire** should be provided.
+
+---
+
+## 5. Daily Interaction and Time Commitment
+
+**Question:** How much time would you dedicate daily to using the app?
+
+- Willing to use the app **daily**, especially when engaging in exercise.
+
+---
+
+## 6. Long-term Use and Consistency
+
+**Question:** How could the app provide long-term benefits for you?
+
+- The app could show the **correlation between exercise and stress levels**.
+- It should track and show the **history of stress levels and exercise** over time.
+
+---
+
+## 7. Preferred Exercise Types
+
+**Question:** What kinds of exercises do you usually do?
+
+- **Dancing** and **walking**.
+
+**Question:** What is your preferred form of exercise, and why?
+
+- **Dancing**, because it allows enjoyment of music and freedom of movement.
+
+---
+
+## 8. Study-Related Stress
+
+**Question:** What study-related triggers cause stress, and how do you currently handle them?
+
+- No specific response provided.
+
+---
+
+## 9. Additional Features Desired
+
+**Question:** What extra features would enhance your experience with the app?
+
+- No specific additional features mentioned.
+
+---
+
+## 10. Motivational Elements
+
+**Question:** What would motivate you to use the app regularly?
+
+- The **results** seen when using the app and the ability to **maintain better mental health**.
+
+---
+
+## 11. Notifications and Data Sharing
+
+**Question:** How much data would you be willing to share without considering it a breach of privacy?
+
+- Willing to share basic information such as:
+  - **Name**
+  - **Email**
+  - **Age** (Date of Birth)
+
+---
+
+# User Requirements
+
+- **Motivation:** Users should receive motivational prompts when they open or use the app.
+- **Exercise Tracking:** The app should allow users to track their exercise.
+- **Stress Tracking:** Users should be able to track their stress levels.
+- **Exercise Variety:** Users should have the ability to choose different types of exercise.
+- **Ease of Use:** The app should be intuitive and easy to navigate.
+- **Stress Level Documentation:** Users should be able to document their stress levels on a **0-10 scale**.
+- **Detailed Survey for High Stress:** When stress levels are high, users should have access to a **more detailed survey**.
+- **History Access:** The app should provide access to the user's **history of stress levels and exercise**.
